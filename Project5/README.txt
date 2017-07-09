@@ -1,7 +1,4 @@
-Samanta Dalchand
-UNI: sd2995
-
-README: Homework #1:
+README.txt
 
 Rectangle.java: for Rectangle.java, I created a Rectangle class. Within this class, there are 4 methods. GetLength() returns the length, getWidth() returns the width, getPerimeter() returns the perimeter and a compareTo method which compares two rectangles on the basis of their perimeter. Followed instructions completely to create this. 
 
